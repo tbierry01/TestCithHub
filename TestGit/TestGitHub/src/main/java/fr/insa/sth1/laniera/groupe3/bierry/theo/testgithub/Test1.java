@@ -12,5 +12,6 @@ package fr.insa.sth1.laniera.groupe3.bierry.theo.testgithub;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("Test 1 Yo b");
+        System.out.println("Youpi hihihih");
     }
 }
